@@ -250,7 +250,7 @@ if game != 1:
                         file_path = input("""
     Where do you want to place the file? 
     Example: C:\\Users\\user\\Desktop
-    Places the file in to the Desktop >> """)
+    Places the file on the Desktop >> """)
                         file = open(f"{file_path}/{file_name}.txt", "x")
                         file = open(f"{file_path}/{file_name}.txt", "a")
                         name_of_layout = input("What do you want to name layout as(Do not use '[' or ']')? >> ")
