@@ -83,7 +83,7 @@ if game == 0:
     def random_selection():
         randomness = int(input("Enter the level of randomness (0-10) >> "))
         if randomness > 10 or randomness < 0:
-            print("Enter valid argument!!!")
+            print("Enter a valid value!!!")
             random_selection()
         for x in range(int((width*height/10)*randomness)):
             random_column_count = random.randint(0, height-1)
