@@ -1,5 +1,6 @@
 # Conways-Game-of-Life
 Conway's Game of Life in python
+```
 game_of_life.py instructions:
 
 Note: it is recommended to run the file in powershell fullscreen
@@ -25,7 +26,6 @@ if you started a new layout:
 #5 endloop:
       #1 enter 0 if you want to save the layout and 1 if not
       #2 to save the layout to a new file enter "0" and to an existing file "1"
-      
       if you chose existing file:
           #1 enter the full path to the file
           #2 enter what you want to name this layout as
@@ -40,5 +40,4 @@ if you chose to load a layout:
   #1 enter the ful path to the layout file
   #2 enter the layout you want to run
   #3 press "p" to stop the game
-      
-   
+```
