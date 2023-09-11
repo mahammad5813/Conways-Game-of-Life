@@ -25,6 +25,7 @@ if you started a new layout:
 #5 endloop:
       #1 enter 0 if you want to save the layout and 1 if not
       #2 to save the layout to a new file enter "0" and to an existing file "1"
+      
       if you chose existing file:
           #1 enter the full path to the file
           #2 enter what you want to name this layout as
